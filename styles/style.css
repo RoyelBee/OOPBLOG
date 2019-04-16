@@ -1,0 +1,31 @@
+img{
+	height: 150px;
+	width: 200px;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 10px;
+
+}
+
+.content{
+	text-align: justify;
+}
+
+.readmore{
+	float: right;
+	background-color: silver;
+	color: white;
+	padding: 10px;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+.readmore hover{
+	background-color: block;
+	color: white;
+}
+
+.readmore:hover { 
+  background-color: black;
+  color: white;
+}
